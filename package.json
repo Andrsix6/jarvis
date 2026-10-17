@@ -1,0 +1,12 @@
+{
+  "name": "jarvis-assistente-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Assistente pessoal web com integração Groq",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
